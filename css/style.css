@@ -1,0 +1,14 @@
+body{
+	background-color:rgb(200, 215, 245);
+}
+
+img{
+	width:125;
+	height:175;
+}
+
+button{
+	background-color:rgb(150,150,150);
+	width:225;
+	height:150;
+}

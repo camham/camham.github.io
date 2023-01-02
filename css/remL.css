@@ -1,0 +1,25 @@
+body{
+	background-color:rgb(200, 215, 245);
+}
+
+img{
+	width:125;
+	height:175;
+}
+
+button{
+	background-color:green;
+	width:125;
+	height:175;
+}
+
+div{
+	background-color:rgb(215, 215, 275);
+	width:1250;
+	height:550;
+}
+
+textarea {
+	height:450;
+	width:1000;
+}
